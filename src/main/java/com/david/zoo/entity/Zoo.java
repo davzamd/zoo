@@ -1,9 +1,9 @@
-package com.david.zoo;
+package com.david.zoo.entity;
 
-import com.david.zoo.animal.Animal;
-import com.david.zoo.animal.Chicken;
-import com.david.zoo.animal.Dog;
-import com.david.zoo.animal.Parrot;
+import com.david.zoo.entity.animal.Animal;
+import com.david.zoo.entity.animal.Chicken;
+import com.david.zoo.entity.animal.Dog;
+import com.david.zoo.entity.animal.Parrot;
 
 import java.util.ArrayList;
 

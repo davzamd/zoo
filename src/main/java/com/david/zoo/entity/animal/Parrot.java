@@ -1,4 +1,4 @@
-package com.david.zoo.animal;
+package com.david.zoo.entity.animal;
 
 public class Parrot extends Bird {
     private boolean speakable;

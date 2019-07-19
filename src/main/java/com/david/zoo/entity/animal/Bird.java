@@ -1,4 +1,4 @@
-package com.david.zoo.animal;
+package com.david.zoo.entity.animal;
 
 public abstract class Bird extends Animal {
     protected double wingsLength;

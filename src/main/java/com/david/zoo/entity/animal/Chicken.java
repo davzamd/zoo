@@ -1,4 +1,4 @@
-package com.david.zoo.animal;
+package com.david.zoo.entity.animal;
 
 public class Chicken extends Bird {
     private boolean boiler;

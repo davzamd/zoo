@@ -1,4 +1,4 @@
-package com.david.zoo.animal;
+package com.david.zoo.entity.animal;
 
 import java.util.ArrayList;
 import java.util.List;

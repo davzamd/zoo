@@ -1,4 +1,6 @@
-package com.david.zoo;
+package com.david.zoo.control;
+
+import com.david.zoo.entity.Zoo;
 
 import java.util.Scanner;
 

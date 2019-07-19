@@ -1,5 +1,6 @@
 package com.david.zoo;
 
+import com.david.zoo.entity.Zoo;
 import org.junit.Test;
 
 import static org.junit.Assert.*;

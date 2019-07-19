@@ -1,4 +1,4 @@
-package com.david.zoo.animal;
+package com.david.zoo.entity.animal;
 
 import org.junit.Before;
 import org.junit.Test;
